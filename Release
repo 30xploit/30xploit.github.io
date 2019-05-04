@@ -1,0 +1,8 @@
+Origin: 30xploit Private Repo
+Label: 30xploit Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: H4x3r repo

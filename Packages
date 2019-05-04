@@ -1,0 +1,13 @@
+Package: com.30xploit.30xploit
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: 30xploit <email@gmail.com>
+Filename: /30xploit.zip
+Size: 49649
+MD5sum: 918dc036fbd3931397176e668aecceac
+SHA1: db2f1fc446556e33eC43Ce344a124fcda4c7dcF9
+SHA256: 2891162a927dc6297fed3d3f7f5f29e44a5486418bv6152cd83191a964ff051b
+Section: Tweaks
+Description: test tweaks
+Author: 30xploit <email@gmail.com>
+Name: H4x3r
